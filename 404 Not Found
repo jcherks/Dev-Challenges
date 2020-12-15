@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 Page Not Found</title>
+
+     <!--Google Fonts-->
+     <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@0,300;0,600;1,300&display=swap" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="app.css">
+</head>
+<body>
+    <div class="page">
+
+    <h1>404 Not Found</h1>
+
+
+<div class="flex">
+<div class="left">
+<img class="scarecrow" src="Scarecrow.png" alt="Scarecrow drawing">
+</div>
+<div class="right">
+<h2>Oh no!</h2>
+
+<p>The page you are looking for might be removed or is temporarily unavailable</p>
+
+
+<button>Back to Homepage</button>
+
+</div>
+</div>
+
+<p class="name">Jill Cherkas @ DevChallenges.io</p>
+
+</div>
+</body>
+</html>
